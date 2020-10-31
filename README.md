@@ -1,5 +1,3 @@
 # Muhammad Ali Tribute Page
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/chinmai-managoli/pen/dyMYJOP](https://codepen.io/chinmai-managoli/pen/dyMYJOP).
-
-Use /dist/index.html
+Click [here](http://htmlpreview.github.io/?https://github.com/cmanagoli/Muhammad-Ali-Tribute-Page/blob/master/dist/index.html) to view the page.
