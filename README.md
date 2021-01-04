@@ -1,3 +1,3 @@
 # Muhammad Ali Tribute Page
 
-Click [here](http://htmlpreview.github.io/?https://github.com/cmanagoli/Muhammad-Ali-Tribute-Page/blob/master/dist/index.html) to view the page.
+Click [here](https://codepen.io/chinmai-managoli/pen/dyMYJOP) to view the page.
